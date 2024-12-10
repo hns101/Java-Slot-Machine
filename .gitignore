@@ -1,3 +1,5 @@
+.idea
+java-bro-code-slotmachine.iml
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
